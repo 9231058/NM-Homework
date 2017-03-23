@@ -22,8 +22,8 @@ Network Management Course homework
    * defining the monitor
    * linking a bridge to monitor
 
-Because vSwitch is aggressive about cleaning unlinked database records,
-the definition of the NetFlow configuration should be done at the same time as its first attachment.
+   Because vSwitch is aggressive about cleaning unlinked database records,
+   the definition of the NetFlow configuration should be done at the same time as its first attachment.
 
 
 ### Netflow Collector
