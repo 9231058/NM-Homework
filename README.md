@@ -21,6 +21,7 @@ Network Management Course homework
 * There are two steps involved in attaching a NetFlow monitor to a bridge:
    * defining the monitor
    * linking a bridge to monitor
+
 Because vSwitch is aggressive about cleaning unlinked database records,
 the definition of the NetFlow configuration should be done at the same time as its first attachment.
 
