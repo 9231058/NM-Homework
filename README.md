@@ -8,7 +8,11 @@ Network Management Course homework
 Create and setup OpenVSwitch with NetFlow:
 
 ```sh
+# creation
 sudo ovs-vsctl add-br br0
+
+# Netflow configuration
+
 ```
 
 ### Netflow Collector
