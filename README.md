@@ -7,5 +7,9 @@ Network Management Course homework
 ### Netflow Exporter
 pmacct is a small set of multi-purpose passive network monitoring tools.
 
+```sh
+sudo apt instal pmacct
+```
+
 ### Netflow Collector
 nProbe: An Extensible NetFlow v5/v9/IPFIX Probe for IPv4/v6.
