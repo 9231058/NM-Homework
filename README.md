@@ -11,7 +11,7 @@ Network Management Course homework
    sudo apt install openvswitch-switch
    ```
 
-* Create and setup OpenVSwitch with NetFlow:
+* Create and setup OpenVSwitch with NetFlow
 
    ```sh
    # creation
