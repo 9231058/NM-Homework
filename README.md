@@ -5,10 +5,10 @@ Network Management Course homework
 
 ## Netflow
 ### Netflow Exporter
-pmacct is a small set of multi-purpose passive network monitoring tools.
+Create and setup OpenVSwitch with NetFlow:
 
 ```sh
-sudo apt instal pmacct
+sudo ovs-vsctl add-br br0
 ```
 
 ### Netflow Collector
