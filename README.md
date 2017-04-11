@@ -32,3 +32,4 @@ Network Management Course homework
 
 ### Netflow Collector
 nProbe: An Extensible NetFlow v5/v9/IPFIX Probe for IPv4/v6.
+nProbe can act as a probe, proxy and collector and you can configure it to do so :)
