@@ -26,7 +26,7 @@ Network Management Course homework
    the definition of the NetFlow configuration should be done at the same time as its first attachment.
 
    ```sh
-   ovs−vsctl −− set Bridge br0 netflow=@nf −− −−id=@nf create NetFlow targets=10.10.10.10
+   ovs−vsctl −− set Bridge br0 netflow=@nf −− −−id=@nf create NetFlow targets=\"10.10.10.10\"
    ```
 
 
