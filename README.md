@@ -1,7 +1,9 @@
 # NM-Homework
 
 ## Introduction
-Network Management Course homework
+Network Management Course homework:
+1. Netflow
+2. NetXMS
 
 ## Netflow
 ### Netflow Exporter
@@ -33,3 +35,6 @@ Network Management Course homework
 ### Netflow Collector
 nProbe: An Extensible NetFlow v5/v9/IPFIX Probe for IPv4/v6.
 nProbe can act as a probe, proxy and collector and you can configure it to do so :)
+
+## NetXMS
+Let's use [it's docker](https://github.com/juliusloman/netxms-dockerfiles) for having lots of fun.
