@@ -2,12 +2,14 @@
 > Spring 2017 - MSc - Amirkabir University of Technology
 
 ## Introduction
-Network Management Course homework:
+Network Management Course projects includes:
+
 1. Netflow
 2. NetXMS
 
 ## Netflow
 ### Netflow Exporter
+
 * Install OVS
 
    ```sh
@@ -34,8 +36,9 @@ Network Management Course homework:
 
 
 ### Netflow Collector
+
 nProbe: An Extensible NetFlow v5/v9/IPFIX Probe for IPv4/v6.
-nProbe can act as a probe, proxy and collector and you can configure it to do so :)
+nProbe can act as a probe, proxy and collector and you can configure it to do so.
 
 ## NetXMS
 Let's use [it's docker](https://github.com/juliusloman/netxms-dockerfiles) for having lots of fun.
