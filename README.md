@@ -2,7 +2,7 @@
 > Spring 2017 - MSc - Amirkabir University of Technology
 
 ## Introduction
-Network Management Course projects includes:
+Network Management Course projects include:
 
 1. Netflow
 2. NetXMS
